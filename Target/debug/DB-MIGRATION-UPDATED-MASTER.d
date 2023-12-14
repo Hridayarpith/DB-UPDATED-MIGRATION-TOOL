@@ -1,0 +1,1 @@
+C:\Users\12242\Downloads\db-migration-updated-master\db-migration-updated-master\target\debug\DB-MIGRATION-UPDATED-MASTER.exe: C:\Users\12242\Downloads\db-migration-updated-master\db-migration-updated-master\src\main.rs
